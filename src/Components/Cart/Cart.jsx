@@ -49,7 +49,8 @@ export default Cart;
 
 /*****
  * Conditional CSS Class
- * 
+ * 1) use ternary
+ * 2) ternary inside template string
  * 
  * 
  */
